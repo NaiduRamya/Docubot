@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "DocuBot.Tools.Controllers.McpController",
+    "Method": "HandleJsonRpc",
+    "RelativePath": "mcp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DocuBot.Tools.Controllers.JsonRpcRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

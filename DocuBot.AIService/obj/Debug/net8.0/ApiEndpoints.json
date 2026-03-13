@@ -1,0 +1,66 @@
+[
+  {
+    "ContainingType": "DocuBot.AIService.Controllers.AiController",
+    "Method": "SuggestCommit",
+    "RelativePath": "ai/commit-suggestion",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "DocuBot.AIService.Models.CommitRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DocuBot.AIService.Controllers.AiController",
+    "Method": "GenerateDocs",
+    "RelativePath": "ai/generate-docs",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "DocuBot.AIService.Models.GenerateDocsRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DocuBot.AIService.Controllers.ValidationController",
+    "Method": "ValidateBranch",
+    "RelativePath": "ai/validate-branch",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "DocuBot.AIService.Models.BranchRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DocuBot.AIService.Controllers.ValidationController",
+    "Method": "ValidateCommit",
+    "RelativePath": "ai/validate-commit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "DocuBot.AIService.Models.SimpleCommitRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,2 @@
+D:\Demo Projects\DocuBot\publish\cli\docubot.pdb
+D:\Demo Projects\DocuBot\publish\cli\docubot.exe

@@ -1,0 +1,17 @@
+﻿D:\Demo Projects\DocuBot\DocuBot.Cli\Program.cs
+D:\Demo Projects\DocuBot\DocuBot.Cli\AI\AiParsingUtils.cs
+D:\Demo Projects\DocuBot\DocuBot.Cli\AI\GeminiProvider.cs
+D:\Demo Projects\DocuBot\DocuBot.Cli\AI\IAiProvider.cs
+D:\Demo Projects\DocuBot\DocuBot.Cli\AI\OllamaProvider.cs
+D:\Demo Projects\DocuBot\DocuBot.Cli\Models\AiModels.cs
+D:\Demo Projects\DocuBot\DocuBot.Cli\Models\GeminiModels.cs
+D:\Demo Projects\DocuBot\DocuBot.Cli\Models\ValidationModels.cs
+D:\Demo Projects\DocuBot\DocuBot.Cli\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+D:\Demo Projects\DocuBot\DocuBot.Cli\obj\Debug\net8.0\DocuBot.Cli.AssemblyInfo.cs
+D:\Demo Projects\DocuBot\DocuBot.Cli\obj\Debug\net8.0\DocuBot.Cli.GlobalUsings.g.cs
+D:\Demo Projects\DocuBot\DocuBot.Cli\obj\Release\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+D:\Demo Projects\DocuBot\DocuBot.Cli\obj\Release\net8.0\DocuBot.Cli.AssemblyInfo.cs
+D:\Demo Projects\DocuBot\DocuBot.Cli\obj\Release\net8.0\DocuBot.Cli.GlobalUsings.g.cs
+D:\Demo Projects\DocuBot\DocuBot.Cli\obj\Release\net8.0\win-x64\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+D:\Demo Projects\DocuBot\DocuBot.Cli\obj\Release\net8.0\win-x64\DocuBot.Cli.AssemblyInfo.cs
+D:\Demo Projects\DocuBot\DocuBot.Cli\obj\Release\net8.0\win-x64\DocuBot.Cli.GlobalUsings.g.cs

@@ -1,0 +1,2 @@
+D:\Demo Projects\DocuBot\dist\DocuBot.Cli.pdb
+D:\Demo Projects\DocuBot\dist\DocuBot.Cli.exe

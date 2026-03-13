@@ -1,0 +1,6 @@
+@DocuBot.AIService_HostAddress = http://localhost:5003
+
+GET {{DocuBot.AIService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,3 @@
+D:\Demo Projects\DocuBot\DocuBot.Cli\bin\Release\net8.0\win-x64\publish\docubot.pdb
+D:\Demo Projects\DocuBot\DocuBot.Cli\bin\Release\net8.0\win-x64\publish\appsettings.json
+D:\Demo Projects\DocuBot\DocuBot.Cli\bin\Release\net8.0\win-x64\publish\docubot.exe

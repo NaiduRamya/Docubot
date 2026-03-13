@@ -1,0 +1,6 @@
+@DocuBot.Tools_HostAddress = http://localhost:5020
+
+GET {{DocuBot.Tools_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

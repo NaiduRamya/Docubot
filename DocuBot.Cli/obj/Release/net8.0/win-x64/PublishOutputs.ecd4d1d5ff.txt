@@ -1,0 +1,3 @@
+D:\Demo Projects\DocuBot\publish\docubot.pdb
+D:\Demo Projects\DocuBot\publish\appsettings.json
+D:\Demo Projects\DocuBot\publish\docubot.exe
